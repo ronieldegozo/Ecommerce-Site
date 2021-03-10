@@ -1,0 +1,15 @@
+.banner{
+    background-image: url(/image/about/about.jpg); 
+    background-repeat: no-repeat;
+ background-size: cover;
+ }
+
+ @font-face {
+    src:url('/font/about.ttf');
+    font-family: roniels;
+  }
+  .container h1{
+      color: rgb(0, 0, 0);
+      font-family: roniels;
+
+  }
